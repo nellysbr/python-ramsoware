@@ -1,6 +1,6 @@
 # Ramsoware - Ransomware written in Python
 
-Ramsonware is a ransomware written in Python that encrypts files and asks for a ransom to decrypt them.
+Ramsonware written in Python that encrypts files and asks for a ransom to decrypt them.
 
 ## Desenvolvimento
 
